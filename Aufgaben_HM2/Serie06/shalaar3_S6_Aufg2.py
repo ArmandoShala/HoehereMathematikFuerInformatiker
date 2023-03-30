@@ -1,4 +1,4 @@
-# Author: asipiome, Aufgaben
+# Author: asipiome, Aufgaben_HM2
 
 import numpy as np
 from shalaar3_S6_Aufg1 import plotter

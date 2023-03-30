@@ -1,5 +1,5 @@
 # -----------------------------------------------------------------
-# HM2 SW02 UND SW03 SKRIPT 2 / adel
+# HM2_Skripts SW02 UND SW03 SKRIPT 2 / adel
 # -----------------------------------------------------------------
 
 # BEISPIEL VON SEITE 10 IN VORLESUNGSNOTIZEN

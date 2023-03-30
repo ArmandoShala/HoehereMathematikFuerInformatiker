@@ -1,5 +1,5 @@
 """
-Für Aufgaben vom Typ 'Untersuchen Sie die Fehlerfortpflanzung im linearen Gleichungssystem Ax = b mit A = ... und b = ...
+Für Aufgaben_HM2 vom Typ 'Untersuchen Sie die Fehlerfortpflanzung im linearen Gleichungssystem Ax = b mit A = ... und b = ...
 für den Fall, dass die rechte Seite von b in jeder Komponente um maximal 0.1 von b abweicht.
 """
 

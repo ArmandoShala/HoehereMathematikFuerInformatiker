@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-"""Für Aufgaben der Art
+"""Für Aufgaben_HM2 der Art
 'Das Polynom vierten Grades
 f(x) = 230x^4 + 18x^3 + 9x^2 − 221x − 9
 besitzt zwei reelle Nullstellen, die erste x1 im Intervall [−1, 0] und die zweite x2 im Intervall [0, 1].

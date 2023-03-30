@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 '''INPUT'''
-# Aufgaben wie: 2 DGL lösungen fehler plotten
+# Aufgaben_HM2 wie: 2 DGL lösungen fehler plotten
 
 a = 0
 b = 6

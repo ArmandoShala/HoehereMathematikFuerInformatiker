@@ -1,7 +1,7 @@
 from decimal import Decimal
 import math
 
-"""Für Aufgaben der Art
+"""Für Aufgaben_HM2 der Art
     'Stellen Sie die Zahl x = √3 korrekt gerundet als Maschinenzahl x˜ in einer Fliesskomma-Arithmetik mit 5
     Binärstellen dar, und geben Sie den relativen Fehler von x˜ im Dezimalformat an.'
 """
